@@ -1,0 +1,55 @@
+body {
+  padding: 50px 10%;
+  line-height: 1.5;
+  background-image: url(https://wallpapers-hub.art/wallpaper-images/359648.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: aliceblue;
+  }
+
+#title {
+  float: left;
+  border: 1px solid gray;
+  font-weight: bold;
+  padding: 20px 80px;
+  background-color: rgb(0, 0, 0, 0.6);
+}
+
+#register {
+  width: 500px;
+  padding: 20px 50px;
+  background-color: rgb(0, 0, 0, 0.6);
+  float: right;
+  border: 1px solid gray;
+}
+
+.container_name_email input{
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.container_textarea textarea{
+  border-radius: 5px;
+}
+
+.container_buttons button{
+  border: 1px solid gray;
+  padding: 10px 40px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 5px 40px;
+  border-radius: 10px;
+  margin-right: 10px;
+  background-color: rgb(246, 246, 246);
+}

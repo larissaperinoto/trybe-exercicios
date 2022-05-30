@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+}
+
+.first {
+  background-color: rgb(235, 200, 84);
+  font-size: 20px;
+  height: 50px;
+  text-align: center;
+  width: 200px;
+  display: block;
+  margin-left: 200px;
+}
+
+.second {
+  background-color: rgb(219, 219, 219);
+  font-size: 20px;
+  height: 50px;
+  text-align: center;
+  width: 300px;
+  display: inline-block
+}
+
+.third {
+  background-color: rgb(170, 142, 106);
+  font-size: 20px;
+  height: 50px;
+  text-align: center;
+  width: 300px;
+  display: inline-block;
+}
+
+.section_premios h3 {
+  margin-left: 230px;
+}
+
+.section_premios ul li {
+  display: inline;
+}

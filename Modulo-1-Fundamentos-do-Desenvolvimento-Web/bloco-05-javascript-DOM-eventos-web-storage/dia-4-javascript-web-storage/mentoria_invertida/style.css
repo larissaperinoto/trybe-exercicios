@@ -1,0 +1,17 @@
+body{
+    padding: 100px 300px;
+}
+
+.resultado {
+    border: 1px solid black;
+    height: 50px;
+    width: 400px;
+}
+
+.container_input1, .container_input2, .container_botoes {
+    margin-top: 20px;
+}
+
+.container_botoes {
+    margin-left: 100px;
+}

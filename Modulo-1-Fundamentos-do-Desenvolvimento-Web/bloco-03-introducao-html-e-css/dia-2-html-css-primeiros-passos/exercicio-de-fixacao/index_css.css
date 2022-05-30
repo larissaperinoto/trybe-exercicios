@@ -1,0 +1,17 @@
+h1 {
+    size: 65px;
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul, .corDeFundo{
+    background-color: chocolate;
+}
+#corAmarelo{
+    background-color: yellow;
+}
+#corVermelho{
+    background-color: red;
+}
+#corMarrom{
+    background-color: brown;
+}

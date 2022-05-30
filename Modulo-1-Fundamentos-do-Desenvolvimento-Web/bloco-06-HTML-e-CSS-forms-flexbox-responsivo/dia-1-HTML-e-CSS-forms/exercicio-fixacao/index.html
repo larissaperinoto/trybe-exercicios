@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My forms</title>
+    <style>
+        body {
+            margin: 100px auto;
+            padding: 0 300px;
+            font-size: 20px;
+            background-color: rgb(158, 122, 158);
+        }
+
+        section {
+            background-color: rgb(170, 158, 143, 0.6);
+            padding: 30px 30px;
+            width: 40%;
+            float:right;
+            border-radius: 30px;
+        }
+
+        div {
+            margin-bottom: 20px;
+        }
+
+        input {
+            padding: 10px 50px;
+            background-color: rgb(240, 240, 234);
+            border: 1px solid gray;
+                border-radius: 5px;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: rgb(240, 240, 234);
+            border-radius: 10px;
+            border: 1px solid gray;
+            float: right;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <section>
+            <form action="">
+                <h1>Faça login para continuar</h1>
+                <div class="container_email">
+                    <label for="inputEmail">Insira seu e-mail</label>
+                    <input type="text" id="inputEmail" autocomplete="off" autofocus required>   
+                </div>
+                <div class="container_password">
+                    <label for="inputPassword"> Insira sua senha</label>
+                    <input type="text" id="inputPassword" required >
+                </div>
+                <div class="container_remember">
+                    <input type="checkbox" id="rememberLogin">
+                    <label for="rememberLogin">Lembre-me</label>
+                </div>
+                <div class="container_button">
+                    <button id="loginButton">Entrar</button>
+                </div>
+            </form>
+        </section>
+    </main>
+</body>
+</html>

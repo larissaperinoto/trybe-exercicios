@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Hotel Trybe</title>
+</head>
+<body>
+  <header class="header-trybe">
+    <img src="https://ik.imagekit.io/joaonasc/Trybe/trybe_logo_EZrV9-GSv.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1651056693893" alt="Logo da Trybe">
+    <h1>Hotel Trybe</h1>
+  </header>
+  <main>
+    <form action="">
+      <section class="hotel-form">
+        <label for="checkin">Checkin:</label>
+        <input type="date" id="checkin" class="inputCheckin">
+        <label for="checkout">Checkout:</label>
+        <input type="date" id="checkout" class="inputCheckout">
+      </section>
+      <section class="hotel-form">
+        <p>Tipo de quarto</p>
+        <input type="radio" class="bedroom" id="quarto1" value="Comum" name="bedroom" checked>
+        <label for="quarto1">Comum</label>
+        <input type="radio" class="bedroom" id="quarto2" value="Club" name="bedroom">
+        <label for="quarto2">Club</label>
+        <input type="radio" class="bedroom" id="quarto3" value="Luxo" name="bedroom">
+        <label for="quarto3">Luxo</label>
+      </section>
+      <section class="hotel-form">
+        <label for="nPessoas">Pessoas:</label>
+        <select class="nPessoas" name="nPessoas" id="nPessoas">
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+        </select>
+      </section>
+      <section class="hotel-form">
+        <textarea name="" placeholder="Observações" class="obs" cols="30" rows="10"></textarea>
+      </section>
+      <button id="submit-btn" type="submit">Reservar</button>
+      <section class="list-section">
+        <h1>Lista de reservas</h1>
+        <ol></ol>
+        <button id="clear-btn" type="reset">Apagar</button>
+      </section>
+    </form>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>

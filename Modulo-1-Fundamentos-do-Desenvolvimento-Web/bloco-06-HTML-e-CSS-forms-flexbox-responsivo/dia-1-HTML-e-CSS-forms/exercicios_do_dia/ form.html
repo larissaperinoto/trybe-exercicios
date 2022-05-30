@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>My Forms</title>
+</head>
+<body>
+  <section id="title">
+    <h1> 🌴  TrybeTrip  🚀</h1>
+  </section>
+  <section id="register">
+    <h1>Cadastre-se para concorrer ☘️</h1>
+    <form action="" id="formPrincipal">
+      <div class="container_name_email">
+        <label for="inputName">Nome Completo:</label>
+        <input type="text" id="inputName" minlength="10" maxlength="40" placeholder="Digite seu nome completo" required>
+        <label for="inputEmail">Email:</label>
+        <input type="email" id="inputEmail" minlength="10" maxlength="50" placeholder="Digite seu melhor e-mail" required>
+      </div>
+      <div>
+        <p>Ecolha seu destino 💚</p>
+        <input type="radio" id="destination1" name="destiny" value="Cidade" checked>
+        <label for="destination1">Cidade</label>
+        <input type="radio" id="destination2" name="destiny" value="Campo">
+        <label for="destination2">Campo</label>
+        <input type="radio" id="destination3" name="destiny" value="Praia">
+        <label for="destination3">Praia</label>
+        <input type="radio" id="destionation4" name="destiny" value="Montanhas">
+        <label for="destionation4">Montanhas</label>
+      </div>
+      <div class="container_textarea">
+        <p>Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip? 🥰</p>
+        <textarea name="answerText" id="answerText" cols="60" rows="10" maxlength="50" placeholder="Digite sua resposta aqui"></textarea>
+      </div>
+      <div>
+        <label for="date">Qual a melhor data para realizar sua viagem?</label>
+        <input type="date" id="date" required>
+      </div>
+      <div>
+        <input type="checkbox" name="promo" id="promo">
+        <label for="promo">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.</label>
+        <br>
+        <input type="checkbox" name="ofer" id="ofer">
+        <label for="ofer">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?</label>
+      </div>
+    </form>
+    <div class="container_buttons">
+      <button type="submit" id="send-btn" disabled>Enviar</button>
+      <button type="button" id="clear-btn">Apagar</button>
+    </div>
+  </section>
+  <script src="./script.js"></script>
+</body>
+</html>
