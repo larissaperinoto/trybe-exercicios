@@ -10,5 +10,3 @@ const getPlanet = () => {
 };
 
 setTimeout(() => getPlanet()), 4000;
-
-module.exports = getPlanet;
