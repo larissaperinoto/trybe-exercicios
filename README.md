@@ -61,10 +61,10 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 ##### Bloco 9: JavaScript e Testes Assíncronos
-- [ ] 9-1: _JavaScript Assíncrono e Callbacks_
-- [ ] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
-- [ ] 9-3: _Jest - Testes Assíncronos_
-- [ ] 9-4: _[Projeto - Carrinho de Compras]()_
+- [X] 9-1: _[JavaScript Assíncrono e Callbacks](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-9-javscript-e-testes-assincronos/dia-1-javascript-assincrono-e-callbacks)_
+- [X] 9-2: _[JavaScript Assíncrono - Fetch API e async/await](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-9-javscript-e-testes-assincronos/dia-2-javascript-assincrono-fetch-API-e-async-await)_
+- [X] 9-3: _[Jest - Testes Assíncronos](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-9-javscript-e-testes-assincronos/dia-3-javascript-testes-assincronos)_
+- [X] 9-4: _[Projeto - Carrinho de Compras](https://github.com/larissaperinoto/project-shopping-cart)_
 ##### Bloco 10: Introdução à React
 - [ ] 10-1: _Introdução - Front-end_
 - [ ] 10-1: _Introdução - React_
