@@ -32,7 +32,6 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 5-2: _[JavaScript - Trabalhando com elementos](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-05-javascript-DOM-eventos-web-storage/dia-2-trabalhando-com-elementos-javascript)_
 - [x] 5-3: _[JavaScript - Eventos](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-05-javascript-DOM-eventos-web-storage/dia-3-javascript-eventos)_
 - [x] 5-4: _[JavaScript - Web Storage](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-05-javascript-DOM-eventos-web-storage/dia-4-javascript-web-storage)_
-- [x] 5-5: _Modulo-1-Fundamentos-do-Desenvolvimento-Web - JavaScript - Projetos_
 - [x] 5-5: _[Projeto - Arte com Pixels](https://github.com/larissaperinoto/project-pixels-art)_
 - [x] 5-6: _[Projeto - Lista de tarefas](https://github.com/larissaperinoto/project-to-do-list)_
 - [ ] 5-7: _[Projeto (Bônus) - Meme Generator]()_
