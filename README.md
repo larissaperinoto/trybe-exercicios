@@ -65,15 +65,15 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 9-3: _[Jest - Testes Assíncronos](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-9-javscript-e-testes-assincronos/dia-3-javascript-testes-assincronos)_
 - [X] 9-4: _[Projeto - Carrinho de Compras](https://github.com/larissaperinoto/project-shopping-cart)_
 ##### Bloco 10: Introdução à React
-- [ ] 10-1: _Introdução - Front-end_
-- [ ] 10-1: _Introdução - React_
-- [ ] 10-1: _'Hello, world' no React!_
-- [ ] 10-2: _Componentes React_
-- [ ] 10-3: [Projeto - Sistema Solar]()_
+- [X] 10-1: _Introdução - Front-end_
+- [X] 10-1: _Introdução - React_
+- [X] 10-1: _['Hello, world' no React!](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-10-introducao-ao-react/dia-1-hello-word-no-react)_
+- [X] 10-2: _[Componentes React](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-10-introducao-ao-react/dia-2-componentes-react)_
+- [X] 10-3: [Projeto - Sistema Solar](https://github.com/larissaperinoto/project-solar-system)_
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
-- [ ] 11-1: _Componentes com estado e eventos_
-- [ ] 11-2: _Formulários no React_
-- [ ] 11-3: _[Projeto - Tryunfo]()_
+- [X] 11-1: _[Componentes com estado e eventos](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-11-componentes-com-estado-eventos-e-formularios-com-react/dia-1-componentes-com-estado-e-eventos)_
+- [X] 11-2: _[Formulários no React](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-11-componentes-com-estado-eventos-e-formularios-com-react/dia-2-formularios-no-react)_
+- [X] 11-3: _[Projeto - Tryunfo]()_
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 - [ ] 12-1: _Ciclo de vida de componentes_
 - [ ] 12-2: _React Router_
