@@ -1,6 +1,6 @@
 ## React Router
 
-Nesta aula foi abordado a utilização da ferramenta React Router com o seguinte enfoque:
+Nesta aula foi abordado a utilização da ferramenta React Router com o seguinte conteúdo:
     - Utilizar o props.children para acessar os filhos de um componente React e interagir com eles.
     - Utilizar o componente BrowserRouter corretamente.
     - Criar links de navegação na aplicação com o componente Link.
