@@ -1,3 +1,9 @@
-generateNumber = () => (Math.random() * 101).toFixed(1)
+generateNumber = () => (Math.random() * 101).toFixed(1);
 
-module.exports = { generateNumber };
+upercaseString = (string) => string.toUpperCase();
+
+firstLetter = (string) =>  string.split('')[0];
+
+concatString = (stringOne, stringTwo) => `${stringOne}${stringTwo}`
+
+module.exports = { generateNumber, upercaseString, firstLetter, concatString};
