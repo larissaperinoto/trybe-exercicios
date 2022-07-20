@@ -75,17 +75,17 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 11-2: _[Formulários no React](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-11-componentes-com-estado-eventos-e-formularios-com-react/dia-2-formularios-no-react)_
 - [X] 11-3: _[Projeto - Tryunfo]()_
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
-- [ ] 12-1: _Ciclo de vida de componentes_
-- [ ] 12-2: _React Router_
-- [ ] 12-3: _[Projeto - TrybeTunes]()_
+- [X] 12-1: _[Ciclo de vida de componentes](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-12-ciclo-de-vida-componenetes-react-router/dia-1-ciclo-de-vida-de-componentes)_
+- [X] 12-2: _[React Router](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-12-ciclo-de-vida-componenetes-react-router/dia-2-react-router)_
+- [X] 12-3: _[Projeto - TrybeTunes](https://github.com/larissaperinoto/project-trybetunes)_
 ##### Bloco 13: Metodologias Ágeis
-- [ ] 13-1: _Metodologias Ágeis_
-- [ ] 13-2: _[Projeto - Frontend Online Store]()_
+- [X] 13-1: _Metodologias Ágeis_
+- [X] 13-2: _[Projeto - Frontend Online Store]()_
 ##### Bloco 14: Testes automatizados com React Testing Library
-- [ ] 14-1: _RTL - Primeiros passos_
-- [ ] 14-2: _RTL - Mocks e Inputs_
-- [ ] 14-3: _RTL - Terstando React Router_
-- [ ] 14-4: _[Projeto - Testes em React]()_
+- [X] 14-1: _RTL - Primeiros passos_
+- [X] 14-2: _[RTL - Mocks e Inputs](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-14-testes-automatizados-RTL/dia-2-RTL-mocks-inputs)_
+- [X] 14-3: _[RTL - Terstando React Router](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-14-testes-automatizados-RTL/dia-3-RTL-testando-react-router)_
+- [X] 14-4: _[Projeto - Testes em React]()_
 ##### Bloco 15: Gerenciamento de estado com Redux
 - [ ] 15-1: _Introdução ao Redux - O estado global da aplicação_
 - [ ] 15-2: _Usando o Redux no React_
