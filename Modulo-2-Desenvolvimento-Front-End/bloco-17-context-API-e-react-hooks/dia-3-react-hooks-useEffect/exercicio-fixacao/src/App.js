@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import BestPokemon from './components/BestPokemons';
+import usePokemonSprinte from './hooks/usePokemonSprite';
 
 function App() {
   const [pokemons, setPokemons] = useState([]);
   const [limit, setLimit] = useState(10);
   const [visible, setVisible] = useState(false);
   const endpoint = `https://pokeapi.co/api/v2/pokemon?limit=${limit}`;
+
 
   const hadleAddLimit = () => {
     setLimit((state) => state + 10);
@@ -19,6 +21,8 @@ function App() {
     }
     getPokemons();
   }, [limit]);
+
+  const [pokemonImage, setPokemonUrl] = usePokemonSprinte();
 
   return (
     <main>
@@ -37,11 +41,16 @@ function App() {
           { visible ? `Esconder o melhor Pokémon` : `Mostrar melhor Pokémon`}
         </button>
         { visible && <BestPokemon /> }
+        <img src={ pokemonImage } alt="" />
         <ul>
-          { pokemons.map((pokemon, i) => (
-            <li key={ i }>
-              <h3>{ pokemon.name }</h3>
-            </li>))
+          { pokemons.map(({ name, url }, i) => {
+            return (
+              <li key={ i }
+                onClick={ () => setPokemonUrl(url)}
+              >
+                <h3>{ name }</h3>
+              </li>
+            )})
           }
         </ul>
       </section>
