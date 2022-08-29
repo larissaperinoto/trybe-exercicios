@@ -34,7 +34,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 5-4: _[JavaScript - Web Storage](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-05-javascript-DOM-eventos-web-storage/dia-4-javascript-web-storage)_
 - [x] 5-5: _[Projeto - Arte com Pixels](https://github.com/larissaperinoto/project-pixels-art)_
 - [x] 5-6: _[Projeto - Lista de tarefas](https://github.com/larissaperinoto/project-to-do-list)_
-- [ ] 5-7: _[Projeto (Bônus) - Meme Generator]()_
+- [X] 5-7: _[Projeto (Bônus) - Meme Generator]()_
 - [x] 5-7: _[Projeto (Bônus) - Adivinhe a Cor](https://github.com/larissaperinoto/project-color-guess)_
 - [ ] 5-7: _[Projeto (Bônus) - Carta Misteriosa]()_
 ##### Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo
@@ -87,19 +87,19 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 14-3: _[RTL - Terstando React Router](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-14-testes-automatizados-RTL/dia-3-RTL-testando-react-router)_
 - [X] 14-4: _[Projeto - Testes em React]()_
 ##### Bloco 15: Gerenciamento de estado com Redux
-- [ ] 15-1: _Introdução ao Redux - O estado global da aplicação_
-- [ ] 15-2: _Usando o Redux no React_
-- [ ] 15-3: _Usando o Redux no React - Prática_
-- [ ] 15-4: _Usando o Redux no React - Actions Assíncronas_
-- [ ] 15-5: _Testes em React-Redux_
-- [ ] 15-6: _[Projeto - Trybe Wallet]()_
+- [X] 15-1: _[Introdução ao Redux - O estado global da aplicação](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-15-gerenciamento-de-estado-com-redux/dia-1-introducao-ao-redux)_
+- [X] 15-2: _[Usando o Redux no React](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-15-gerenciamento-de-estado-com-redux/dia-2-usando-redux-no-react)_
+- [X] 15-3: _[Usando o Redux no React - Prática](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-15-gerenciamento-de-estado-com-redux/dia-3-usando-redux-no-react-pratica)_
+- [X] 15-4: _[Usando o Redux no React - Actions Assíncronas](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-15-gerenciamento-de-estado-com-redux/dia-4-usando-redux-no-react-actions-assincronas)_
+- [X] 15-5: _[Testes em React-Redux](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-15-gerenciamento-de-estado-com-redux/dia-5-testes-em-react-redux)_
+- [X] 15-6: _[Projeto - Trybe Wallet](https://github.com/larissaperinoto/project-trybewallet)_
 ##### Bloco 16: Projeto Jogo de Trivia
-- [ ] 16-1: _[Projeto - Jogo de Trivia]()_
+- [X] 16-1: _[Projeto - Jogo de Trivia]()_
 ##### Bloco 17: Context API e React Hooks
-- [ ] 17-1: _Context API do React_
-- [ ] 17-2: _React Hooks - useState e useContext_
-- [ ] 17-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [X] 17-1: _[Context API do React](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-17-context-API-e-react-hooks/dia-1-context-API-do-react)_
+- [X] 17-2: _[React Hooks - useState e useContext](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-17-context-API-e-react-hooks/dia-2-react-hooks)_
+- [X] 17-3: _[React Hooks - useEffect e Hooks customizados](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-17-context-API-e-react-hooks/dia-3-react-hooks-useEffect)_
+- [X] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 ##### Bloco 18: Projeto App de Receitas
 - [ ] 18-1: _[Projeto - App de Receitas]()_
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
