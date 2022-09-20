@@ -85,7 +85,7 @@ SELECT SUM(length) AS 'Tempo de exibição total' FROM sakila.film;
 --Quantidade com COUNT()
 SELECT COUNT(length) AS 'Filmes registrados' FROM sakila.film;
 
-/* Praticando o GROUP BY */
+/* Praticando o GROUP BY E HAVING */
 
 SELECT active, COUNT(*) FROM sakila.customer GROUP BY active;
 
@@ -101,3 +101,14 @@ FROM sakila.address
 GROUP BY district
 ORDER BY quantity DESC;
 
+-- Usando o HAVING para filtrar o agrupamento
+
+SELECT rating, AVG(length) AS media
+FROM sakila.film
+GROUP BY rating
+HAVING media BETWEEN 115.0 AND 121.50;
+
+SELECT rating, SUM(replacement_cost) AS total
+FROM sakila.film
+GROUP by rating
+HAVING total > 3950.50;
