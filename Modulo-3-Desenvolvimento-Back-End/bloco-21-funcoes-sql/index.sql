@@ -57,5 +57,14 @@ SELECT ROUND(15.7515971, 5);
 SELECT FLOOR(39.494);
 
 -- Arredondando para cima com CEIL
-
 SELECT CEIL(85.234);
+
+
+/* Manipulando datas e hora */
+
+-- Diferença entre datas com DATEDIFF
+SELECT DATEDIFF('2030-01-20', '2022-09-20');
+
+-- Diferença entre horas com TIMEDIFF
+SELECT TIMEDIFF('11:00:00', '10:25:45');
+
