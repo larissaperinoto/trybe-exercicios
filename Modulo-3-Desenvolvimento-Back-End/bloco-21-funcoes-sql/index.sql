@@ -68,3 +68,20 @@ SELECT DATEDIFF('2030-01-20', '2022-09-20');
 -- Diferença entre horas com TIMEDIFF
 SELECT TIMEDIFF('11:00:00', '10:25:45');
 
+/* Funções de agregação */
+
+-- Média com AVG()
+SELECT AVG(length) AS 'Média de Duração' FROM sakila.film;
+
+-- Menor valor com MIN()
+SELECT MIN(length) AS 'Duração Mínima' FROM sakila.film;
+
+-- Maior valor com MAX()
+SELECT MAX(length) AS 'Duração Máxima' FROM sakila.film;
+
+-- Soma de todos os valores com SUM()
+SELECT SUM(length) AS 'Tempo de exibição total' FROM sakila.film;
+
+--Quantidade com COUNT()
+SELECT COUNT(length) AS 'Filmes registrados' FROM sakila.film;
+
