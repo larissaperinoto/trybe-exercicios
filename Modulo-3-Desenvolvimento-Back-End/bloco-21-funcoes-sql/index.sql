@@ -85,3 +85,19 @@ SELECT SUM(length) AS 'Tempo de exibição total' FROM sakila.film;
 --Quantidade com COUNT()
 SELECT COUNT(length) AS 'Filmes registrados' FROM sakila.film;
 
+/* Praticando o GROUP BY */
+
+SELECT active, COUNT(*) FROM sakila.customer GROUP BY active;
+
+SELECT store_id, active, COUNT(*) FROM sakila.customer GROUP BY active, store_id;
+
+SELECT rating, AVG(rental_duration) AS media
+FROM sakila.film
+GROUP BY rating
+ORDER BY media DESC;
+
+SELECT district, Count(*) AS quantity
+FROM sakila.address
+GROUP BY district
+ORDER BY quantity DESC;
+
