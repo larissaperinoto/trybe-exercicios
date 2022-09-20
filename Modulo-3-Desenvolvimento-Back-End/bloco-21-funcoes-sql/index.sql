@@ -47,3 +47,15 @@ SELECT 200 DIV 12;
 
 SELECT 200 MOD 12;
 
+-- Gerando valores aleatórios com RAND
+SELECT FLOOR(15 + (RAND() * 5));
+
+-- Arredondando valores com ROUND
+SELECT ROUND(15.7515971, 5);
+
+--Arredondando para baixo com FLOOR
+SELECT FLOOR(39.494);
+
+-- Arredondando para cima com CEIL
+
+SELECT CEIL(85.234);
