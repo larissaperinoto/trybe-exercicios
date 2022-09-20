@@ -36,3 +36,14 @@ SELECT title, rating,
     ELSE 'Proibido para menores de idade'
 END AS 'público-alvo'
 FROM sakila.film;
+
+-- Experimentando os operadores DIV e MOD
+
+-- Definindo se 15 é par ou ímpar com MOD
+SELECT IF(15 MOD 2 = 0, 'É par', 'É ímpar') AS 'Par ou Ímpar';
+
+-- Arredondando valores com DIV
+SELECT 200 DIV 12;
+
+SELECT 200 MOD 12;
+
