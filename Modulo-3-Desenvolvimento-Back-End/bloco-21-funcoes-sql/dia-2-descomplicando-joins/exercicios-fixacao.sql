@@ -48,4 +48,26 @@ WHERE YEAR(t1.payment_date) = 2006
 GROUP BY t2.staff_id;
 
 --- 7
+SELECT t2.first_name, t2.last_name, AVG(t1.amount) AS media_pagamento
+FROM sakila.payment AS t1
+INNER JOIN sakila.staff AS t2
+ON t1.staff_id = t2.staff_id
+WHERE YEAR(t1.payment_date) = 2006
+GROUP BY t2.staff_id;
 
+/* Usando SELF JOIN */
+
+--- 1
+SELECT t1.first_name, t2.first_name
+from hr.employees AS t1
+INNER JOIN hr.employees AS t2
+ON t1.manager_id = t2.employee_id
+WHERE t1.department_id <> t2.department_id;
+
+--- 2
+SELECT t2.first_name, COUNT(t1.first_name)
+from hr.employees AS t1
+INNER JOIN hr.employees AS t2
+ON t1.manager_id = t2.employee_id
+WHERE t1.department_id <> t2.department_id
+GROUP BY t2.first_name;
