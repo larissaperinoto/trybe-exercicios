@@ -101,26 +101,26 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 17-3: _[React Hooks - useEffect e Hooks customizados](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-17-context-API-e-react-hooks/dia-3-react-hooks-useEffect)_
 - [X] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 ##### Bloco 18: Projeto App de Receitas
-- [ ] 18-1: _[Projeto - App de Receitas]()_
+- [X] 18-1: _[Projeto - App de Receitas](https://github.com/larissaperinoto/recipes-app)_
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 ##### Bloco 19: Docker: Utilizando Containers
-- [ ] 19-1: _Introdução - Back-end_
-- [ ] 19-1: _Utilizando Containers - Docker_
-- [ ] 19-2: _Manipulação e Criação de Imagens no Docker_
-- [ ] 19-3: _Orquestrando Containers com Docker Compose_
-- [ ] 19-4: _[Projeto - Docker To do-List]()_
+- [X] 19-1: _Introdução - Back-end_
+- [X] 19-1: _[Utilizando Containers - Docker](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-19-docker-utilizando-containers/dia-1-utilizando-containers)_
+- [X] 19-2: _[Manipulação e Criação de Imagens no Docker](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-19-docker-utilizando-containers/dia-2-manipulando-imagens-docker)_
+- [X] 19-3: _[Orquestrando Containers com Docker Compose](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-19-docker-utilizando-containers/dia-3-orquestrando-containers-com-docker-compose)_
+- [X] 19-4: _[Projeto - Docker To do-List]()_
 ##### Bloco 20: Introdução à SQL
-- [ ] 20-1: _Introdução - Bancos de dados relacionais_
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [X] 20-1: _Introdução - Bancos de dados relacionais_
+- [X] 20-1: _[Banco de dados SQL](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-20-introducao-a-sql/dia-1-introducao-banco-de-dados-sql)_
+- [X] 20-2: _[Encontrando dados em um banco de dados](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-20-introducao-a-sql/dia-2-encontrando-dados-em-um-banco-de-dados)_
+- [X] 20-3: _[Filtrando dados de forma específica](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-20-introducao-a-sql/dia-3-filtrando-dados)_
+- [X] 20-4: _[Manipulando tabelas](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-20-introducao-a-sql/dia-4-manipulando-tabelas)_
+- [X] 20-5: _[Projeto - All For One]()_
 ##### Bloco 21: Funções SQL, JOINs e Normalização
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs_
-- [ ] 21-3: _Transformando ideias em um modelo de banco de dados_
-- [ ] 21-4: _Aula ao vivo + [Projeto - Vocabulary Booster]()_
+- [X] 21-1: _[Funções mais usadas no SQL](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-21-funcoes-sql/dia-1-funcoes-mais-usadas)_
+- [X] 21-2: _[Descomplicando JOINs](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-21-funcoes-sql/dia-2-descomplicando-joins)_
+- [X] 21-3: _[Transformando ideias em um modelo de banco de dados](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-21-funcoes-sql/dia-3-modelo-de-bd)_
+- [X] 21-4: _Aula ao vivo + [Projeto - One For All]()_
 ##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 - [ ] 22-1: _Intro - Node.js_
 - [ ] 22-1: _Node.js - Um motor JavaScript_
