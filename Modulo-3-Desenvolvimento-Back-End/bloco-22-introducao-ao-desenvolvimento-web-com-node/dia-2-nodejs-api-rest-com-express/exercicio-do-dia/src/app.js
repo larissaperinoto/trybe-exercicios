@@ -1,6 +1,5 @@
 const express = require('express');
 const data = require('./data');
-console.log(data)
 
 const app = express();
 
@@ -27,6 +26,18 @@ app.get('/filter/myActivities', (req, res) => {
 
   res.status(200).json({ data: newData });
 
+});
+
+app.get('/search/myActivities', (req, res) => {
+  const { q } = req.query;
+  let response = [];
+
+
+  if (q) {
+    response = data.filter((element) => element.description.includes(search));
+  }
+
+  res.status(200).json({ data: response });
 });
 
 module.exports = app;
