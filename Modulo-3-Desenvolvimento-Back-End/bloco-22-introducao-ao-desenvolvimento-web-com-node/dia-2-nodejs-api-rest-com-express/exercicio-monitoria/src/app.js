@@ -1,5 +1,5 @@
 const express = require('express');
-let data = require('./personagens');
+let personagens = require('./personagens');
 
 const app = express();
 
@@ -7,34 +7,34 @@ app.use(express.json());
 
 app.get('/:id', (req, res) => {
   const { id } = req.params;
-  const user = data.find((e) => e.id === Number(id))
+  const user = personagens.find((e) => e.id === Number(id))
   res.status(200).json(user);
 });
 
 app.get('/', (_req, res) => {
-  res.status(200).json(data);
+  res.status(200).json(personagens);
 });
 
 app.post('/', (req, res) => {
   const info = req.body;
-  info.id = data.length + 1;
-  data.push(info);
+  info.id = personagens.length + 1;
+  personagens.push(info);
   return res.status(201).json(info);
 });
 
 app.delete('/:id', (req, res) => {
   const { id } = req.params;
-  data = data.filter((pers) => pers.id !== Number(id));
+  personagens = personagens.filter((pers) => pers.id !== Number(id));
   return res.status(204).json({ message: 'Deletado com sucesso!'});
 });
 
 app.path('/:id', (req, res) => {
   const { id } = req.params;
   const { name, house } = req.body;
-  const item = data.findIndex((pers) => pers.id !== Number(id));
-  data[index].name = name;
-  data[index].house = house;
-  return res.status(200).json(data[index]);
+  const item = personagens.findIndex((pers) => pers.id !== Number(id));
+  personagens[index].name = name;
+  personagens[index].house = house;
+  return res.status(200).json(personagens[index]);
 });
 
 module.exports = app;

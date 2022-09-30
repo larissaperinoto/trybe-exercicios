@@ -1,4 +1,4 @@
-const data = [
+const personagens = [
   {
       "id": 1,
       "name": "Harry Potter",
@@ -43,4 +43,4 @@ const data = [
   }
 ]
 ​
-module.exports = data;
+module.exports = personagens;
