@@ -40,3 +40,39 @@ describe('Usando o método GET em /chocolates/total', function () {
   });
 
 });
+
+describe('Usando o método GET em /chocolates/search?name=Mo', function () {
+  it('Retorna os chocolates começados em "Mo"', async function () {
+
+    const output = [
+      {
+        "id": 3,
+        "name": "Mon Chéri",
+        "brandId": 2
+      },
+      {
+        "id": 4,
+        "name": "Mounds",
+        "brandId": 3
+      }
+    ];
+
+    const response = await chai
+    .request(app)
+    .get('/chocolates/search?name=Mo');
+
+    expect(response.status).to.be.equals(200);
+    expect(response.body).to.deep.equal(output);
+  });
+
+  it('Retorna um array vazio para buscas sem correspondência', async function () {
+
+    const response = await chai
+    .request(app)
+    .get('/chocolates/search?name=zzzzz');
+
+    expect(response.status).to.be.equals(404);
+    expect(response.body).to.deep.equal([]);
+  });
+
+});
