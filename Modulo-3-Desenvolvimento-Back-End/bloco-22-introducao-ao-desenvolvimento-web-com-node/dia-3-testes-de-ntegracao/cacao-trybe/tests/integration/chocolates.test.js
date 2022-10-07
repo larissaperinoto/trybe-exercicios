@@ -23,4 +23,20 @@ describe('Usando o método GET em /chocolates', function () {
     expect(response.status).to.be.equals(200);
     expect(response.body.chocolates).to.deep.equal(output);
   });
+
+});
+
+describe('Usando o método GET em /chocolates/total', function () {
+  it('Retorna a quantidade total de chocolates', async function () {
+
+    const output = { totalChocolates: 4 };
+
+    const response = await chai
+    .request(app)
+    .get('/chocolates/total');
+
+    expect(response.status).to.be.equals(200);
+    expect(response.body).to.deep.equal(output);
+  });
+
 });

@@ -6,7 +6,7 @@
   },
   "name": "cacao-trybe",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/server.js",
   "dependencies": {
     "ansi-colors": "^4.1.1",
     "ansi-regex": "^5.0.1",
@@ -90,6 +90,7 @@
     "yocto-queue": "^0.1.0"
   },
   "scripts": {
+    "dev": "node .",
     "test": "mocha tests/**/*.test.js --exit"
   },
   "keywords": [],
