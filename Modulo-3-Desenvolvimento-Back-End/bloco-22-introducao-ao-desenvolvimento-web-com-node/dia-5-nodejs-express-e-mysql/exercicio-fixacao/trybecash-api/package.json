@@ -5,18 +5,23 @@
   "main": "src/server.js",
   "scripts": {
     "start": "node .",
-    "dev": "nodemon .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/server.js",
+    "test": "mocha tests/**/*.test.js --exit"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.19"
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "mocha": "^10.0.0",
+    "nodemon": "^2.0.19",
+    "sinon": "14.0"
   },
   "dependencies": {
     "dotenv": "^16.0.1",
     "express": "4.17",
-    "mysql2": "2.3"
+    "mysql2": "2.3",
+    "snakeize": "^0.1.0"
   }
 }
