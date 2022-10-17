@@ -32,11 +32,11 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 5-2: _[JavaScript - Trabalhando com elementos](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-05-javascript-DOM-eventos-web-storage/dia-2-trabalhando-com-elementos-javascript)_
 - [x] 5-3: _[JavaScript - Eventos](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-05-javascript-DOM-eventos-web-storage/dia-3-javascript-eventos)_
 - [x] 5-4: _[JavaScript - Web Storage](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-05-javascript-DOM-eventos-web-storage/dia-4-javascript-web-storage)_
-- [x] 5-5: _[Projeto - Arte com Pixels](https://github.com/larissaperinoto/project-pixels-art)_
-- [x] 5-6: _[Projeto - Lista de tarefas](https://github.com/larissaperinoto/project-to-do-list)_
-- [X] 5-7: _[Projeto (Bônus) - Meme Generator]()_
-- [x] 5-7: _[Projeto (Bônus) - Adivinhe a Cor](https://github.com/larissaperinoto/project-color-guess)_
-- [ ] 5-7: _[Projeto (Bônus) - Carta Misteriosa]()_
+- [x] 5-5: _[Projeto - Arte com Pixels](https://github.com/larissaperinoto/pixels-art)_
+- [x] 5-6: _[Projeto - Lista de tarefas](https://github.com/larissaperinoto/todo-list)_
+- [X] 5-7: _Projeto (Bônus) - Meme Generator_
+- [x] 5-7: _[Projeto (Bônus) - Adivinhe a Cor](https://github.com/larissaperinoto/color-guess)_
+- [ ] 5-7: _Projeto (Bônus) - Carta Misteriosa_
 ##### Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo
 - [x] 6-1: _[HTML & CSS - Forms](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-06-HTML-e-CSS-forms-flexbox-responsivo/dia-1-HTML-e-CSS-forms)_
 - [x] 6-2: _[Bibliotecas JavaScript e Frameworks CSS](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-06-HTML-e-CSS-forms-flexbox-responsivo/dia-2-biblioteca-javascript-e-framework-css)_
@@ -56,7 +56,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 8-3: _[JavaScript ES6 - Higher Order Functions - map e filter](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-08-%20higher-order-functions-do-javascript/dia-3-HOFs-map-filter)_
 - [x] 8-4: _[JavaScript ES6 - Higher Order Functions - reduce](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-08-%20higher-order-functions-do-javascript/dia-4-HOFs-reduce)_
 - [x] 8-5: _[JavaScript ES6 - spread operator, rest parameter, destructuring e mais](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-08-%20higher-order-functions-do-javascript/dia-5-spread-operator-rest-descructuring)_
-- [x] 8-6: _[Projeto - Zoo functions]()_
+- [x] 8-6: _[Projeto - Zoo functions](https://github.com/larissaperinoto/zoo-functions)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 ##### Bloco 9: JavaScript e Testes Assíncronos
@@ -73,19 +73,19 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 - [X] 11-1: _[Componentes com estado e eventos](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-11-componentes-com-estado-eventos-e-formularios-com-react/dia-1-componentes-com-estado-e-eventos)_
 - [X] 11-2: _[Formulários no React](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-11-componentes-com-estado-eventos-e-formularios-com-react/dia-2-formularios-no-react)_
-- [X] 11-3: _[Projeto - Tryunfo]()_
+- [X] 11-3: _Projeto - Tryunfo_
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 - [X] 12-1: _[Ciclo de vida de componentes](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-12-ciclo-de-vida-componenetes-react-router/dia-1-ciclo-de-vida-de-componentes)_
 - [X] 12-2: _[React Router](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-12-ciclo-de-vida-componenetes-react-router/dia-2-react-router)_
 - [X] 12-3: _[Projeto - TrybeTunes](https://github.com/larissaperinoto/project-trybetunes)_
 ##### Bloco 13: Metodologias Ágeis
 - [X] 13-1: _Metodologias Ágeis_
-- [X] 13-2: _[Projeto - Frontend Online Store]()_
+- [X] 13-2: _Projeto - Frontend Online Store_
 ##### Bloco 14: Testes automatizados com React Testing Library
 - [X] 14-1: _RTL - Primeiros passos_
 - [X] 14-2: _[RTL - Mocks e Inputs](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-14-testes-automatizados-RTL/dia-2-RTL-mocks-inputs)_
 - [X] 14-3: _[RTL - Terstando React Router](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-14-testes-automatizados-RTL/dia-3-RTL-testando-react-router)_
-- [X] 14-4: _[Projeto - Testes em React]()_
+- [X] 14-4: _Projeto - Testes em React_
 ##### Bloco 15: Gerenciamento de estado com Redux
 - [X] 15-1: _[Introdução ao Redux - O estado global da aplicação](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-15-gerenciamento-de-estado-com-redux/dia-1-introducao-ao-redux)_
 - [X] 15-2: _[Usando o Redux no React](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-15-gerenciamento-de-estado-com-redux/dia-2-usando-redux-no-react)_
@@ -94,7 +94,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 15-5: _[Testes em React-Redux](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-15-gerenciamento-de-estado-com-redux/dia-5-testes-em-react-redux)_
 - [X] 15-6: _[Projeto - Trybe Wallet](https://github.com/larissaperinoto/project-trybewallet)_
 ##### Bloco 16: Projeto Jogo de Trivia
-- [X] 16-1: _[Projeto - Jogo de Trivia]()_
+- [X] 16-1: _Projeto - Jogo de Trivia_
 ##### Bloco 17: Context API e React Hooks
 - [X] 17-1: _[Context API do React](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-17-context-API-e-react-hooks/dia-1-context-API-do-react)_
 - [X] 17-2: _[React Hooks - useState e useContext](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-17-context-API-e-react-hooks/dia-2-react-hooks)_
@@ -108,34 +108,33 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 19-1: _[Utilizando Containers - Docker](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-19-docker-utilizando-containers/dia-1-utilizando-containers)_
 - [X] 19-2: _[Manipulação e Criação de Imagens no Docker](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-19-docker-utilizando-containers/dia-2-manipulando-imagens-docker)_
 - [X] 19-3: _[Orquestrando Containers com Docker Compose](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-19-docker-utilizando-containers/dia-3-orquestrando-containers-com-docker-compose)_
-- [X] 19-4: _[Projeto - Docker To do-List]()_
+- [X] 19-4: _Projeto - Docker To do-List_
 ##### Bloco 20: Introdução à SQL
 - [X] 20-1: _Introdução - Bancos de dados relacionais_
 - [X] 20-1: _[Banco de dados SQL](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-20-introducao-a-sql/dia-1-introducao-banco-de-dados-sql)_
 - [X] 20-2: _[Encontrando dados em um banco de dados](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-20-introducao-a-sql/dia-2-encontrando-dados-em-um-banco-de-dados)_
 - [X] 20-3: _[Filtrando dados de forma específica](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-20-introducao-a-sql/dia-3-filtrando-dados)_
 - [X] 20-4: _[Manipulando tabelas](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-20-introducao-a-sql/dia-4-manipulando-tabelas)_
-- [X] 20-5: _[Projeto - All For One]()_
+- [X] 20-5: _Projeto - All For One_
 ##### Bloco 21: Funções SQL, JOINs e Normalização
 - [X] 21-1: _[Funções mais usadas no SQL](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-21-funcoes-sql/dia-1-funcoes-mais-usadas)_
 - [X] 21-2: _[Descomplicando JOINs](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-21-funcoes-sql/dia-2-descomplicando-joins)_
 - [X] 21-3: _[Transformando ideias em um modelo de banco de dados](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-21-funcoes-sql/dia-3-modelo-de-bd)_
-- [X] 21-4: _Aula ao vivo + [Projeto - One For All]()_
+- [X] 21-4: _Projeto - One For All_
 ##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
-- [ ] 22-1: _Intro - Node.js_
-- [ ] 22-1: _Node.js - Um motor JavaScript_
-- [ ] 22-2: _Node.js - Fluxo Assíncrono_
-- [ ] 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
-- [ ] 22-4: _Express - HTTP com Node.js_
-- [ ] 22-5: _Express - Middlewares_
-- [ ] 22-6: _[Projeto - Talker Manager]()_
+- [X] 22-1: _Intro - Node.js_
+- [X] 22-1: _[Node.js - Runtime assíncrono](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-22-introducao-ao-desenvolvimento-web-com-node/dia-1-nodejs-runtime-assincrono)_
+- [X] 22-2: _[Node.js - API REST com Express](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-22-introducao-ao-desenvolvimento-web-com-node/dia-2-nodejs-api-rest-com-express)_
+- [X] 22-3: _[Node.js - Testes de integração](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-22-introducao-ao-desenvolvimento-web-com-node/dia-3-testes-de-ntegracao)_
+- [X] 22-4: _[Node.js - Express e Middlewares](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-22-introducao-ao-desenvolvimento-web-com-node/dia-4-nodejs-express-e-middleware)_
+- [X] 22-5: _[Node.js - Express e MysSQL](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-22-introducao-ao-desenvolvimento-web-com-node/dia-5-nodejs-express-e-mysql)_
+- [X] 22-6: _Projeto - Talker Manager_
 ##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
-- [ ] 23-1: _Introdução - Arquitetura de Software_
-- [ ] 23-1: _Arquitetura de Software - Camada de Model_
-- [ ] 23-2: _Arquitetura de Software - Camada de Controller e Service_
-- [ ] 23-3: _Arquitetura Web - Rest e Restful_
-- [ ] 23-4: _Arquitetura de Software - Testando as Camadas_
-- [ ] 23-5: _[Projeto - Store Manager]()_
+- [X] 23-1: _Introdução - Arquitetura de Software_
+- [X] 23-1: _[Arquitetura de Software - Camada de Model](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-23-arquitetura-de-software/dia-1-camada-model)_
+- [X] 23-2: _[Arquitetura de Software - Camada de Service](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-23-arquitetura-de-software/dia-2-camada-service)_
+- [X] 23-4: _[Arquitetura de Software - Camada de Controller](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-23-arquitetura-de-software/dia-3-camada-controller)_
+- [X] 23-5: _[Projeto - Store Manager](https://github.com/larissaperinoto/store-manager)_
 ##### Bloco 24: Node.js: ORM e Autenticação
 - [ ] 24-1: _Introdução - Node.js: ORM e Autenticação_
 - [ ] 24-1: _ORM - Interface da aplicação com o banco de dados_
