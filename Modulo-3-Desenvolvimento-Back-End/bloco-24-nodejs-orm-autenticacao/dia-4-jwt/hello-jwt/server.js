@@ -5,8 +5,8 @@ const bodyParser = require('body-parser');
 
 const { PORT } = process.env;
 
-const controllers = require('./controllers');
-const middlewares = require('./middlewares');
+const controllers = require('./src/controller');
+const middlewares = require('./src/middlewares');
 
 const app = express();
 
