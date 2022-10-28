@@ -136,17 +136,13 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 23-4: _[Arquitetura de Software - Camada de Controller](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-23-arquitetura-de-software/dia-3-camada-controller)_
 - [X] 23-5: _[Projeto - Store Manager](https://github.com/larissaperinoto/store-manager)_
 ##### Bloco 24: Node.js: ORM e Autenticação
-- [ ] 24-1: _Introdução - Node.js: ORM e Autenticação_
-- [ ] 24-1: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 24-2: _ORM - Associations_
-- [ ] 24-3: _JWT - (JSON Web Token)_
-- [ ] 24-4: _Testando APIs com Testes de Integração_
-- [ ] 24-5: _[Projeto - API de Blogs]()_
+- [X] 24-1: _[ORM: Interface da aplicação com banco de dados](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-24-nodejs-orm-autenticacao/dia-1-orm-interface-aplicacao-bd)_
+- [X] 24-2: _[ORM - Associations 1:1 e 1:N](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-24-nodejs-orm-autenticacao/dia-2-irm-associacoes)_
+- [X] 24-2: _[ORM - Associations N:N](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-24-nodejs-orm-autenticacao/dia-3-orm-associacoes-n-n)_
+- [X] 24-3: _[JWT - (JSON Web Token)](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-24-nodejs-orm-autenticacao/dia-4-jwt)_
+- [X] 24-5: _[Projeto - API de Blogs]()_
 ##### Bloco 25: Deployment
-- [ ] 25-1: _Introdução - Deploy_
-- [ ] 25-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 25-2: _Deploy Docker & Heroku_
-- [ ] 25-3: _[Projeto - Stranger Things]()_
+- [X] 25-1: _[Masterclass: Implantação de aplicação na nuvem]()_
 ##### Bloco 26: TypeScript
 - [ ] 26-1: _Introdução - TypeScript_
 - [ ] 26-1: _Introdução ao TypeScript_
