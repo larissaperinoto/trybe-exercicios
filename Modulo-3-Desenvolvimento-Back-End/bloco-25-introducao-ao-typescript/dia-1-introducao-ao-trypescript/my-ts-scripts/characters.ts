@@ -1,8 +1,16 @@
+type Stats = {
+  agi: number;
+  str: number;
+  int: number;
+  hp: number;
+  mp: number;
+}
+
 type Character = {
-  nickname: string,
-  class: string,
-  stats: { agi:number, str:number, int: number, hp: number, mp: number },
-  createdAt: Date
+  nickname: string;
+  class: string;
+  stats: Stats;
+  createdAt: Date;
 };
 
 const characters: Character[] = [

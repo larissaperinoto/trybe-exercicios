@@ -1,13 +1,13 @@
 enum Medidas {
-  KM = 1000,
-  HM = 100,
-  DAM = 10,
-  M = 1,
-  DM = 0.1,
-  CM = 0.01,
-  MM = 0.001,
+  KG = 1000,
+  HG = 100,
+  DAG = 10,
+  G = 1,
+  DG = 0.1,
+  CG = 0.01,
+  MG = 0.001,
 }
-type medidasPossiveis = "KM" | "HM" | "DAM" | "M" | "DM" | "CM" | "MM";
+type medidasPossiveis = "KG" | "HG" | "DAG" | "G" | "DG" | "CG" | "MG";
 
 function converte (valor:number, base:medidasPossiveis, conversao:medidasPossiveis):number {
   const unidadeBase = Medidas[base];
