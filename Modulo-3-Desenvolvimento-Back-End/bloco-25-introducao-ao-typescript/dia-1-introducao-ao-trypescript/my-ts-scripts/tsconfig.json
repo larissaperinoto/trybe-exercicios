@@ -1,6 +1,14 @@
 {
   "extends": "@tsconfig/node16/tsconfig.json", // estendemos a configuração base para o Node 16
   "compilerOptions": {
-    "outDir": "./dist", // pasta onde nossos arquivos compilados serão salvos
-  },
+    "target": "es2016",
+    "module": "commonjs",
+    "rootDir": "./",
+    "outDir": "./dist",
+    "preserveConstEnums": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
 }

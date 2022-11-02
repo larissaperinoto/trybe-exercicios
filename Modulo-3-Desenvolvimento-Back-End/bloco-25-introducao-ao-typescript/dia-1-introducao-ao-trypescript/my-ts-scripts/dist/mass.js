@@ -1,13 +1,13 @@
 "use strict";
 var Medidas;
 (function (Medidas) {
-    Medidas[Medidas["KM"] = 1000] = "KM";
-    Medidas[Medidas["HM"] = 100] = "HM";
-    Medidas[Medidas["DAM"] = 10] = "DAM";
-    Medidas[Medidas["M"] = 1] = "M";
-    Medidas[Medidas["DM"] = 0.1] = "DM";
-    Medidas[Medidas["CM"] = 0.01] = "CM";
-    Medidas[Medidas["MM"] = 0.001] = "MM";
+    Medidas[Medidas["KG"] = 1000] = "KG";
+    Medidas[Medidas["HG"] = 100] = "HG";
+    Medidas[Medidas["DAG"] = 10] = "DAG";
+    Medidas[Medidas["G"] = 1] = "G";
+    Medidas[Medidas["DG"] = 0.1] = "DG";
+    Medidas[Medidas["CG"] = 0.01] = "CG";
+    Medidas[Medidas["MG"] = 0.001] = "MG";
 })(Medidas || (Medidas = {}));
 function converte(valor, base, conversao) {
     const unidadeBase = Medidas[base];

@@ -1,11 +1,11 @@
 enum Medidas {
-  KM = 1000,
-  HM = 100,
-  DAM = 10,
+  KM = 10 * Math.pow(1000, 9),
+  HM = 10 * Math.pow(1000, 6),
+  DAM = 10 * Math.pow(1000, 3),
   M = 1,
-  DM = 0.1,
-  CM = 0.01,
-  MM = 0.001,
+  DM = 10 * Math.pow(1000, -3),
+  CM = 10 * Math.pow(1000, -6),
+  MM = 10 * Math.pow(1000, -9),
 }
 type medidasPossiveis = "KM" | "HM" | "DAM" | "M" | "DM" | "CM" | "MM";
 
@@ -16,4 +16,4 @@ function converte (valor:number, base:medidasPossiveis, conversao:medidasPossive
   return (valor * unidadeBase) / unidadeConvertida;
 }
 
-export = { converte };
+export { converte };

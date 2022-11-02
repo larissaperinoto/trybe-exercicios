@@ -15,3 +15,5 @@ function converte (valor:number, base:medidasPossiveis, conversao:medidasPossive
 
   return (valor * unidadeBase) / unidadeConvertida;
 }
+
+export = { converte };
