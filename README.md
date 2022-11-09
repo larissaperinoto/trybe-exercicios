@@ -142,13 +142,12 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 24-3: _[JWT - (JSON Web Token)](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-24-nodejs-orm-autenticacao/dia-4-jwt)_
 - [X] 24-5: _[Projeto - API de Blogs]()_
 ##### Bloco 25: Deployment
-- [X] 25-1: _[Masterclass: Implantação de aplicação na nuvem]()_
+- [X] 25-1: _Masterclass: Implantação de aplicação na nuvem_
 ##### Bloco 26: TypeScript
-- [ ] 26-1: _Introdução - TypeScript_
-- [ ] 26-1: _Introdução ao TypeScript_
-- [ ] 26-2: _Tipagem Estática e Generics_
-- [ ] 26-3: _Express com TypeScript_
-- [ ] 26-4: _[Projeto - Trybe Smith]()_
+- [X] 26-1: _[Introdução ao TypeScript](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-25-introducao-ao-typescript/dia-1-introducao-ao-trypescript)_
+- [X] 26-2: _[Tipagem Estática e Generics](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-25-introducao-ao-typescript/dia-2-tipagem-estatica-generics)_
+- [X] 26-3: _[Express com TypeScript](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-25-introducao-ao-typescript/dia-3-express-com-typescript)_
+- [X] 26-4: _Projeto - Trybe Smith_
 ##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 - [ ] 27-1: _Introdução à Orientação a Objetos_
 - [ ] 27-2: _Herança e Interfaces_
