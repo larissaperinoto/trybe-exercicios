@@ -44,7 +44,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 6-3: _[CSS Flexbox - Part 1](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-06-HTML-e-CSS-forms-flexbox-responsivo/dia-3-css-flexbox)_
 - [x] 6-4: _[CSS Flexbox - Part 2](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-06-HTML-e-CSS-forms-flexbox-responsivo/dia-4-css-flexbox-2)_
 - [x] 6-5: _CSS Responsivo - Mobile First_
-- [x] 6-6: _[Projeto - Trybewarts]()_
+- [x] 6-6: _[Projeto - Trybewarts](https://github.com/larissaperinoto/trybewarts)_
 ##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 - [x] 7-1: _[JavaScript ES6 - let, const, arrow functions e template literals](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-07-introducao-a-javascript-ES6-e-testes-unitarios/dia-1-javascript-ES6-let-const-arrow-functions-e-templante-literals)_
 - [x] 7-2: _[JavaScript ES6 - Fluxo de exceção e Objetos](https://github.com/larissaperinoto/trybe-exercicios/tree/master/Modulo-1-Fundamentos-do-Desenvolvimento-Web/bloco-07-introducao-a-javascript-ES6-e-testes-unitarios/dia-2-javascript-ES6-fluxo-de-excecao-e-objetos)_
@@ -69,7 +69,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 10-1: _Introdução - React_
 - [X] 10-1: _['Hello, world' no React!](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-10-introducao-ao-react/dia-1-hello-word-no-react)_
 - [X] 10-2: _[Componentes React](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-10-introducao-ao-react/dia-2-componentes-react)_
-- [X] 10-3: [Projeto - Sistema Solar](https://github.com/larissaperinoto/project-solar-system)_
+- [X] 10-3: _[Projeto - Sistema Solar](https://github.com/larissaperinoto/project-solar-system)_
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 - [X] 11-1: _[Componentes com estado e eventos](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-11-componentes-com-estado-eventos-e-formularios-com-react/dia-1-componentes-com-estado-e-eventos)_
 - [X] 11-2: _[Formulários no React](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-11-componentes-com-estado-eventos-e-formularios-com-react/dia-2-formularios-no-react)_
@@ -80,7 +80,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 12-3: _[Projeto - TrybeTunes](https://github.com/larissaperinoto/project-trybetunes)_
 ##### Bloco 13: Metodologias Ágeis
 - [X] 13-1: _Metodologias Ágeis_
-- [X] 13-2: _Projeto - Frontend Online Store_
+- [X] 13-2: _[Projeto - Frontend Online Store](https://github.com/larissaperinoto/online-store)_
 ##### Bloco 14: Testes automatizados com React Testing Library
 - [X] 14-1: _RTL - Primeiros passos_
 - [X] 14-2: _[RTL - Mocks e Inputs](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-14-testes-automatizados-RTL/dia-2-RTL-mocks-inputs)_
@@ -94,7 +94,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 15-5: _[Testes em React-Redux](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-15-gerenciamento-de-estado-com-redux/dia-5-testes-em-react-redux)_
 - [X] 15-6: _[Projeto - Trybe Wallet](https://github.com/larissaperinoto/project-trybewallet)_
 ##### Bloco 16: Projeto Jogo de Trivia
-- [X] 16-1: _Projeto - Jogo de Trivia_
+- [X] 16-1: _[Projeto - Jogo de Trivia](https://github.com/larissaperinoto/trivia)_
 ##### Bloco 17: Context API e React Hooks
 - [X] 17-1: _[Context API do React](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-17-context-API-e-react-hooks/dia-1-context-API-do-react)_
 - [X] 17-2: _[React Hooks - useState e useContext](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-2-Desenvolvimento-Front-End/bloco-17-context-API-e-react-hooks/dia-2-react-hooks)_
@@ -115,12 +115,12 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 20-2: _[Encontrando dados em um banco de dados](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-20-introducao-a-sql/dia-2-encontrando-dados-em-um-banco-de-dados)_
 - [X] 20-3: _[Filtrando dados de forma específica](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-20-introducao-a-sql/dia-3-filtrando-dados)_
 - [X] 20-4: _[Manipulando tabelas](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-20-introducao-a-sql/dia-4-manipulando-tabelas)_
-- [X] 20-5: _Projeto - All For One_
+- [X] 20-5: _[Projeto - All For One](https://github.com/larissaperinoto/all-for-one-mysql)_
 ##### Bloco 21: Funções SQL, JOINs e Normalização
 - [X] 21-1: _[Funções mais usadas no SQL](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-21-funcoes-sql/dia-1-funcoes-mais-usadas)_
 - [X] 21-2: _[Descomplicando JOINs](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-21-funcoes-sql/dia-2-descomplicando-joins)_
 - [X] 21-3: _[Transformando ideias em um modelo de banco de dados](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-21-funcoes-sql/dia-3-modelo-de-bd)_
-- [X] 21-4: _Projeto - One For All_
+- [X] 21-4: _[Projeto - One For All](https://github.com/larissaperinoto/one-for-all-mysql)_
 ##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 - [X] 22-1: _Intro - Node.js_
 - [X] 22-1: _[Node.js - Runtime assíncrono](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-22-introducao-ao-desenvolvimento-web-com-node/dia-1-nodejs-runtime-assincrono)_
@@ -140,23 +140,23 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 24-2: _[ORM - Associations 1:1 e 1:N](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-24-nodejs-orm-autenticacao/dia-2-irm-associacoes)_
 - [X] 24-2: _[ORM - Associations N:N](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-24-nodejs-orm-autenticacao/dia-3-orm-associacoes-n-n)_
 - [X] 24-3: _[JWT - (JSON Web Token)](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-24-nodejs-orm-autenticacao/dia-4-jwt)_
-- [X] 24-5: _[Projeto - API de Blogs]()_
+- [X] 24-5: _[Projeto - API de Blogs](https://github.com/larissaperinoto/blogs-api)_
 ##### Bloco 25: Deployment
 - [X] 25-1: _Masterclass: Implantação de aplicação na nuvem_
 ##### Bloco 26: TypeScript
 - [X] 26-1: _[Introdução ao TypeScript](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-25-introducao-ao-typescript/dia-1-introducao-ao-trypescript)_
 - [X] 26-2: _[Tipagem Estática e Generics](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-25-introducao-ao-typescript/dia-2-tipagem-estatica-generics)_
 - [X] 26-3: _[Express com TypeScript](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-25-introducao-ao-typescript/dia-3-express-com-typescript)_
-- [X] 26-4: _Projeto - Trybe Smith_
+- [X] 26-4: _[Projeto - Trybe Smith](https://github.com/larissaperinoto/trybesmith-api)_
 ##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
-- [ ] 27-1: _Introdução à Orientação a Objetos_
-- [ ] 27-2: _Herança e Interfaces_
-- [ ] 27-3: _Polimorfismo_
-- [ ] 27-4: _SOLID - Introdução e Princípios S, O e D_
-- [ ] 27-5: _SOLID - Princípios L e I_
-- [ ] 27-6: _[Projeto - Trybe and Dragons]()_
+- [X] 27-1: _[Introdução à Orientação a Objetos](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-27-poo-e-solid/dia-1-introducao-a-poo)_
+- [X] 27-2: _[Herança e Interfaces](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-27-poo-e-solid/dia-2-heranca-e-interface)_
+- [X] 27-3: _Polimorfismo_
+- [X] 27-4: _[SOLID - Introdução e Princípios S, O e D](https://github.com/larissaperinoto/trybe-exercicios/tree/main/Modulo-3-Desenvolvimento-Back-End/bloco-27-poo-e-solid/dia-4-introducao-solid)_
+- [X] 27-5: _SOLID - Princípios L e I_
+- [X] 27-6: _[Projeto - Trybe and Dragons](https://github.com/larissaperinoto/players-and-dragons)_
 ##### Bloco 28: Projeto - TFC - Trybe Futebol Clube
-- [ ] 28-1: _[Projeto - TFC - Trybe Futebol Clube]()_
+- [X] 28-1: _[Projeto - TFC - Trybe Futebol Clube](https://github.com/larissaperinoto/trybe-futebol-clube)_
 ##### Bloco 29: Introdução ao MongoDB
 - [ ] 29-1: _Introdução - NoSQL_
 - [ ] 29-1: _MongoDB - Introdução_
