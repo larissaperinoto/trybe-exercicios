@@ -158,18 +158,19 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Bloco 28: Projeto - TFC - Trybe Futebol Clube
 - [X] 28-1: _[Projeto - TFC - Trybe Futebol Clube](https://github.com/larissaperinoto/trybe-futebol-clube)_
 ##### Bloco 29: Introdução ao MongoDB
-- [ ] 29-1: _Introdução - NoSQL_
-- [ ] 29-1: _MongoDB - Introdução_
-- [ ] 29-2: _Filter Operators_
-- [ ] 29-3: _Operadores de consulta_
-- [ ] 29-4: _Updates Simples_
-- [ ] 29-5: _Updates Complexos - Arrays_
-- [ ] 29-6: _[Projeto - Commerce]()_
-##### Bloco 31: MasterClass - VPS, CI/CD
-- [ ] 31-1: _Dia 1_
-- [ ] 31-2: _Dia 2_
+- [X] 29-1: _Introdução - NoSQL_
+- [X] 29-1: _MongoDB - Introdução_
+- [X] 29-2: _Filter Operators_
+- [X] 29-3: _Operadores de consulta_
+- [X] 29-4: _Updates Simples_
+- [X] 29-5: _Updates Complexos - Arrays_
+- [X] 29-6: _[Projeto - Commerce](https://github.com/larissaperinoto/mongodb-commerce)_
+##### Bloco 31: APIs OO e NoSQL
+- [X] 31-1: _Dia 1_ APIs Orientadas a Objetos e NoSQL: POO e ODMs
+- [X] 31-2: _Dia 2_ APIs Orientadas a Objetos e NoSQL: Herança e Abstração
+- [X] 31-3: _[Projeto Car Shop](https://github.com/larissaperinoto/car-shop-api)
 ##### Bloco 32: Projeto - App de Delivery
-- [ ] 32-1: _[Projeto - App de Delivery]()_
+- [X] 32-1: _[Projeto - App de Delivery](https://github.com/larissaperinoto/delivery-app)_
 ## Ciência da Computação :hourglass_flowing_sand:
 ##### Bloco 33: Introdução à Python
 - [ ] 33-1: _Introdução - Ciência da Computação_
