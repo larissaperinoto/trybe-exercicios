@@ -168,31 +168,31 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Bloco 31: APIs OO e NoSQL
 - [X] 31-1: _Dia 1_ APIs Orientadas a Objetos e NoSQL: POO e ODMs
 - [X] 31-2: _Dia 2_ APIs Orientadas a Objetos e NoSQL: Herança e Abstração
-- [X] 31-3: _[Projeto Car Shop](https://github.com/larissaperinoto/car-shop-api)
+- [X] 31-3: _[Projeto Car Shop](https://github.com/larissaperinoto/car-shop-api)_
 ##### Bloco 32: Projeto - App de Delivery
 - [X] 32-1: _[Projeto - App de Delivery](https://github.com/larissaperinoto/delivery-app)_
 ## Ciência da Computação :hourglass_flowing_sand:
 ##### Bloco 33: Introdução à Python
-- [ ] 33-1: _Introdução - Ciência da Computação_
-- [ ] 33-1: _Aprendendo Python_
-- [ ] 33-2: _Entrada e Saída de Dados_
-- [ ] 33-3: _Testes_
-- [ ] 33-4: _[Projeto - Job Insights]()_
+- [X] 33-1: _Introdução - Ciência da Computação_
+- [X] 33-1: _Aprendendo Python_
+- [X] 33-2: _Entrada e Saída de Dados_
+- [X] 33-3: _Testes_
+- [X] 33-4: _[Projeto - Job Insights](https://github.com/larissaperinoto/job-insights)_
 ##### Bloco 34: Programação Orientada a Objetos e Padrões de Projeto
-- [ ] 34-1: _Introdução à programação orientada a objetos_
-- [ ] 34-2: _Herança, Composição e Interfaces_
-- [ ] 34-3: _Padrões de projeto_
-- [ ] 34-4: _[Projeto - Relatórios de Estoque]()_
+- [X] 34-1: _Introdução à programação orientada a objetos_
+- [X] 34-2: _Herança, Composição e Interfaces_
+- [X] 34-3: _Padrões de projeto_
+- [X] 34-4: _[Projeto - Relatórios de Estoque]()_
 ##### Bloco 35: Redes e Raspagem de Dados
-- [ ] 35-1: _Arquitetura de redes_
-- [ ] 35-2: _Redes de computadores, ferramentas e segurança_
-- [ ] 35-3: _Raspagem de Dados_
-- [ ] 35-4: _[Projeto - Tech news]()_
+- [X] 35-1: _Arquitetura de redes_
+- [X] 35-2: _Redes de computadores, ferramentas e segurança_
+- [X] 35-3: _Raspagem de Dados_
+- [X] 35-4: _[Projeto - Tech news]()_
 ##### Bloco 36: Algoritmos
-- [ ] 36-1: _Complexidade de Algoritmos_
-- [ ] 36-2: _Recursividade e Estratégias para solução de problemas_
-- [ ] 36-3: _Algoritmos de ordenação e busca_
-- [ ] 36-4: _[Projeto - Algoritmos]()_
+- [X] 36-1: _Complexidade de Algoritmos_
+- [X] 36-2: _Recursividade e Estratégias para solução de problemas_
+- [X] 36-3: _Algoritmos de ordenação e busca_
+- [X] 36-4: _[Projeto - Algoritmos](https://github.com/larissaperinoto/python-algorithms)_
 ##### Bloco 37: Estrutura de Dados I: Arrays, Hashmaps e Sets
 - [ ] 37-1: _Arquitetura de Computadores_
 - [ ] 37-2: _Arrays_
